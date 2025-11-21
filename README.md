@@ -14,10 +14,28 @@ Translate text
 </p>
 
 Text-to-speech
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/34aa13cf-1343-49f6-9233-682f1fa8bcb3" width="200" height="400">
+</p>
 
 Note
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/544088bc-e675-409a-a554-44b64048c672" width="200" height="400">
+  <img src="https://github.com/user-attachments/assets/541f9735-0749-4136-8943-fe487addada8" width="200" height="400">
+  <img src="https://github.com/user-attachments/assets/42623eaf-c2a0-4336-bc04-cad459ae9a1c" width="200" height="400">
+  <img src="https://github.com/user-attachments/assets/693b8601-723b-40b6-9c17-87ba840eee60" width="200" height="400">
+</p>
 
 Search
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bc3a9dd5-871d-4f42-9c55-7cacca436b77" width="200" height="400">
+  <img src="https://github.com/user-attachments/assets/b35d1960-a661-428b-82a2-1723012488ea" width="200" height="400">
+</p>
+
 Chapter
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/28a1c9c9-ac34-4fcf-ab5d-9d9ed38c8305" width="200" height="400">
+</p>
 
